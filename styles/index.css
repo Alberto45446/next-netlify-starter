@@ -1,0 +1,47 @@
+/* home.module.css */
+
+.hero {
+    background-image: url('/images/hero-bg.jpg');
+    background-size: cover;
+    padding: 100px;
+    text-align: center;
+    color: white;
+  }
+  
+  .title {
+    font-size: 42px;
+  }
+  
+  .text {
+    font-size: 18px; 
+  }
+  
+  .emailSignup {
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .emailSignup input {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .emailSignup button {
+    background: #f26a2e;
+    color: white;
+    padding: 10px 15px;
+    border: 0;
+  }
+  
+  .section {
+    padding: 60px;
+  }
+  
+  .brand {
+    font-size: 24px;
+  }
+  
+  .vision p {
+    font-size: 18px;
+  }
