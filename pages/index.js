@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 
-import styles from './home.module.css';
+import styles from './index.css';
 
 export default function Home() {
 
